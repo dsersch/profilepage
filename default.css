@@ -616,7 +616,8 @@
 	.column1,
 	.column2,
 	.column3,
-	.column4
+	.column4,
+	.column5
 	{
 		width: 282px;
 	}
@@ -627,11 +628,17 @@
 	{
 		float: left;
 		margin-right: 24px;
+		margin-bottom: 20px;
 	}
 	
 	.column4
 	{
 		float: right;
+	}
+
+	.column5
+	{
+		margin: 0 auto;
 	}
 
 /*********************************************************************************/
